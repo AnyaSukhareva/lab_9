@@ -1,0 +1,15 @@
+body{
+	color: white;
+}
+
+.menu{
+	background-color: #d34900;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+.carousel-item{
+	background-color: #d34900;
+	width: 1300px;
+	height: 500px;
+}
